@@ -13,4 +13,4 @@ Permissions such as tabs, idle, and storage are used strictly for:
 
 By installing this extension, you acknowledge that no personal information leaves your browser.
 
-Developer Contact: luc.gia.an.lvt.020410@gmail.com
+Developer Contact: maikimanhdc@gmail.com
