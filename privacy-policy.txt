@@ -1,0 +1,16 @@
+Effective Date: October 6th, 2025.
+
+Web Gatekeeper and its companion extension Proctor do not collect, store, or transmit any personal data outside the user’s device.
+
+All data, including browsing time, website limits, and usage statistics, is stored locally using Chrome’s storage.local API.
+
+The extensions do not connect to any external servers, and no data is shared with third parties.
+
+Permissions such as tabs, idle, and storage are used strictly for:
+– tracking active website time;
+– pausing time counting when the browser is inactive;
+– saving user preferences locally.
+
+By installing this extension, you acknowledge that no personal information leaves your browser.
+
+Developer Contact: luc.gia.an.lvt.020410@gmail.com
